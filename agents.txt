@@ -1,3 +1,0 @@
-c0313293-977c-4363-a2f2-a6fed9c31cd3|John Doe|john.doe@example.com|123-456-7890|Residential|10 years|4.500000|3.000000
-fb153b6c-9049-4ff0-b958-1209779c9873|heshan dilanka|it24103939@my.sliit.lk|0788106176|docter|5|Paris|0.000000
-0c9872fe-2500-4014-a1fb-b3765a4baf73|p.heshan dilanka|dilankaheshan859@gmail.com|0788106176|Residential|1 years|sdsdsd|0.000000
